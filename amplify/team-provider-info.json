@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-fastfoodcdaws-dev-180155-authRole",
+            "UnauthRoleArn": "arn:aws:iam::362606112592:role/amplify-fastfoodcdaws-dev-180155-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::362606112592:role/amplify-fastfoodcdaws-dev-180155-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-fastfoodcdaws-dev-180155-deployment",
+            "UnauthRoleName": "amplify-fastfoodcdaws-dev-180155-unauthRole",
+            "StackName": "amplify-fastfoodcdaws-dev-180155",
+            "StackId": "arn:aws:cloudformation:us-east-1:362606112592:stack/amplify-fastfoodcdaws-dev-180155/9c59c860-e267-11ea-a263-0ec446493c7d",
+            "AmplifyAppId": "d37u9q0isv2fzj"
+        },
+        "categories": {
+            "auth": {
+                "fastfoodcdawsbca261a3": {}
+            }
+        }
+    }
+}
