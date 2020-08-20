@@ -66,3 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+GraphQL endpoint: https://hgk2jp2h45batfl2zaollh7ive.appsync-api.us-east-1.amazonaws.com/graphql
+GraphQL API KEY: da2-6rzunkthenhlfpkfwjvu2m6zi4

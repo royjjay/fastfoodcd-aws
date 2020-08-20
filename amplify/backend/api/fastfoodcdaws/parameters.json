@@ -1,0 +1,5 @@
+{
+    "AppSyncApiName": "fastfoodcdaws",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false
+}
